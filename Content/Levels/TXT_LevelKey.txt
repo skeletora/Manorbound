@@ -1,0 +1,19 @@
+-First Floor
+	-1st Area
+		Courtyard
+		Foyer
+		Trophy Room
+		Living Room
+		Bathroom1
+		Laundry Room
+		Side Study
+		Library
+		Study
+	- 2nd Area
+		Sitting Room
+		Art Gallery
+		Pantry
+		Kitchen
+		Dining Room
+		Ballroom
+		Stairs to Floor 2
